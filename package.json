@@ -1,7 +1,7 @@
 {
-  "name": "wholeliving",
+  "name": "deltaElectricVanilla",
   "version": "1.0.0",
-  "description": "An application built for users to find neighborhoods close to healthy living businesses",
+  "description": "Building Delta Electric's website similar to their original version.",
   "main": "index.js",
   "dependencies": {
     "cors": "^2.8.5",
