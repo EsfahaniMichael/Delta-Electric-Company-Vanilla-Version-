@@ -5,7 +5,7 @@
   "main": "index.js",
   "dependencies": {
     "cors": "^2.8.5",
-    "csv-parse": "^4.4.1",
+    "csv-parse": "^4.4.6",
     "express": "^4.16.4",
     "fs": "0.0.1-security",
     "mapbox-gl": "^0.54.0",
