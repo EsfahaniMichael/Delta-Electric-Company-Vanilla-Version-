@@ -21,7 +21,7 @@
     "url": "https://github.com/esfahanimichael/WholeLiving"
   },
   "dependencies": {
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "cors": "^2.8.5",
     "express": "^4.16.4",
     "materialize-css": "^1.0.0",
